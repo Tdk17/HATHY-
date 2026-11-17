@@ -31,11 +31,11 @@ Após alterar `public_html`, atualize também o ZIP antes de distribuí-lo. Bast
 
 ## Conteúdo que depende do cliente
 
-- O logotipo oficial ainda será fornecido. A marca tipográfica e o favicon são provisórios.
+- Logotipo oficial enviado pelo cliente aplicado no cabeçalho, rodapé e ícone do site. Arquivo original em `public_html/assets/hathy-logo.jpg`, sem alteração da arte.
 - Fotografias e medidas vêm dos materiais fornecidos. A galeria do modelo redondo mostra referências de formatos e não certifica aplicação.
 - Nomes de veículos vieram dos links comerciais. A leitura dos anúncios foi bloqueada; a compatibilidade continua sob consulta por ano, versão e sensor.
 - Não foi recebida foto da embalagem de 5 ml. A composição tipográfica mostra apenas a quantidade e não pretende representar embalagem.
-- Preço, estoque, pagamento, prazo e entrega são combinados no WhatsApp; não há promessas inventadas.
+- Fabricação própria, envio para todo o Brasil e produtos para todas as marcas de veículos nacionais e importados são informações fornecidas pelo cliente. A aplicação deve ser confirmada por modelo de sensor. Preço, estoque, pagamento, frete e prazo são combinados no WhatsApp.
 - CNPJ reproduzido conforme informado: 27.000.187/0001-80. Não houve verificação cadastral.
 
 ## Verificações
